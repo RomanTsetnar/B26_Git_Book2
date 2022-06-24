@@ -3,3 +3,4 @@ Learning how to pull files to my local repository.
 Let's say, my teammate did some work and i need to have those changes.
 
 I successfully pulled my teammates files to my local repository.
+My team mate pushed some more new code to the remote repository.
