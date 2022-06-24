@@ -1,3 +1,5 @@
 Added page 3 to chapter _2 folder from Remote repository.
 Learning how to pull files to my local repository.
-Lets say, my teammate did some work and i need to have those changes.
+Let's say, my teammate did some work and i need to have those changes.
+
+I successfully pulled my teammates files to my local repository.
